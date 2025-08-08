@@ -1,0 +1,2 @@
+product_id,retailer_id,price,currency,availability,url,updated_at
+<<compila con gli id delle tabelle products/retailers>>,,,,,
